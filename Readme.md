@@ -1,0 +1,1 @@
+A full-stack e-commerce application built with Java Spring Boot for the backend and React.js for the frontend, featuring OAuth authentication and Stripe payment integration.
